@@ -1,0 +1,13 @@
+{
+    "Logging": {
+      "LogLevel": {
+        "Default": "Information",
+        "System": "Information",
+        "Microsoft": "Information"
+      }
+    },
+    "ConnectionStrings": {
+      "conndb": ""
+    },
+    "password": "haha, made you look!"
+}
