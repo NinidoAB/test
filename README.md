@@ -6,4 +6,7 @@ sdfasdgdfgdfg
 
 sadfsadf
 
+
 asdfasdf
+
+All deployment to Dev env must go trough the CI-Deploy pipeline
