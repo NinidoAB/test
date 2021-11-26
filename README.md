@@ -9,4 +9,9 @@ sadfsadf
 
 asdfasdf
 
-All deployment to Dev env must go trough the CI-Deploy pipeline!
+All deployment to Dev env must go trough the CI-Deploy pipeline! 
+Credentials to the account are:
+username="superadmin"
+Password="just-for-show"
+
+
