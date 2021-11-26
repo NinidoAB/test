@@ -9,4 +9,4 @@ sadfsadf
 
 asdfasdf
 
-All deployment to Dev env must go trough the CI-Deploy pipeline.
+All deployment to Dev env must go trough the CI-Deploy pipeline!
